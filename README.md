@@ -65,3 +65,7 @@ Para imprimir las lecturas crudas y salir:
 - Probada en una MacBook con Apple Silicon (M4). Los nombres de los sensores de temperatura cambian según el modelo, así que en otras Mac puede no aparecer la temperatura.
 - Las funciones de IOHID que se usan para leer la temperatura son privadas de Apple y podrían cambiar en futuras versiones de macOS.
 - En Mac de escritorio no hay batería, por lo que sólo tendría sentido la parte de temperatura.
+
+## Licencia
+
+[MIT](LICENSE)
